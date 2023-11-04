@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is an RPG (Role-Playing Game) developed in Unreal Engine. It is designed for educational purposes and aimed at advancing game development and design skills. The game is not intended for publication or commercial purposes; rather, it serves as a learning platform.
+This project is an RPG (Role-Playing Game) similar to **Assassin's Creed Origins** developed in Unreal Engine. It is designed for educational purposes and aimed at advancing game development and design skills. The game is not intended for publication or commercial purposes; rather, it serves as a learning platform.
 ## Features
 + Player Interaction: Engage in a dynamic world with various non-player characters (NPCs), quests, and storylines.
 + Combat System: Implement a combat system that involves strategy, skills, and perhaps magic or special abilities.
